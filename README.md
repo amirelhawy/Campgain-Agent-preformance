@@ -1,8 +1,6 @@
 # Campgain-and-Agent-preformance
 𝗗𝗮𝘁𝗮 𝗰𝗹𝗲𝗮𝗻𝗶𝗻𝗴
-- the project is about track the campaign performance and the agent productivty 
-first step the data needed to clean , using python to acessce the data and calculate the percentage of the null values 
-all the columns with more than 70% null values will be deleted as it is not usefull 
+- The project is about tracking campaign performance and agent productivity. The first stage is to clean the data by using Python to access the data and figure out the percentage of null values. Any columns with more than 70% empty values will be eliminated since they are useless.
 
 ![ScreenShot_20230105154031](https://user-images.githubusercontent.com/61375401/210793486-6bf37c8b-99bc-4d74-820b-4b6f8323d0c7.jpeg)
 
